@@ -22,7 +22,7 @@ First, you need to install [Node.js](https://nodejs.org/en) on your computer. Yo
 After that open the [Console](https://en.wikipedia.org/wiki/Windows_Console) (or [Terminal](<https://en.wikipedia.org/wiki/Terminal_(macOS)>) if you have macOS) and type the following command:
 
 ```sh
-git clone --depth 1 -b master https://github.com/iptv-org/epg.git
+git clone --depth 1 -b master https://github.com/tsd80/epg.git
 ```
 
 Then navigate to the downloaded `epg` folder:
