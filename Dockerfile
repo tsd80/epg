@@ -1,5 +1,5 @@
 FROM node:20.15-alpine
-ENV NODE_ENV production
+ENV NODE_ENV=production
 
 RUN apk update
 RUN apk add --no-cache bash
